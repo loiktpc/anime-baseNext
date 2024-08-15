@@ -1,0 +1,364 @@
+{
+    "movies": [
+        {
+            "id": 0,
+            "total_tap": "12/496",
+            "star_mv": "8.5", 
+            "img": "https://firebasestorage.googleapis.com/v0/b/phimlau-509fd.appspot.com/o/imgaes%2Fvothanchuate.jpg?alt=media&token=ed7371c4-d7c5-4ffc-b722-6535702597d3",
+            "name": "Võ Thần Chúa Tể",
+            "category": [
+                {
+                    "id": 1,
+                    "name": "Đang tiến hành",
+                    "topic" : "Trạng thái"
+                },
+                {
+                    "id": 2,
+                    "name": "8.5 || 1094 đánh giá",
+                    "topic" : "Điểm"
+                },
+                {
+                    "id": 3,
+                    "name": "2020",
+                    "topic" : "Phát hành"
+                },
+                {
+                    "id": 4,
+                    "name": "496 Tập",
+                    "topic" : "Thời lượng"
+                   
+                }
+            ],
+            "practice": [
+                {
+                    "id": 1,
+                    "link": "https://www.youtube.com/embed/9Z4iRN1dPRc?si=WgDlDjVOMew01MJz",
+                   
+                    "name_practice": 1,
+                    "creat_at" : "12 phút"
+                },
+                {
+                    "id": 2,
+                    "link": "https://www.youtube.com/embed/PISAEtSYdN8?si=woH34bFRplZ0S9QL",
+                    "name_practice": 2,
+                    "creat_at" : "21 phút"
+                },
+                {
+                    "id": 3,
+                    "link": "https://www.youtube.com/embed/1DuIFFl3i0c?si=Me0q75M6kwGol0EW",
+                    "name_practice": 3 ,
+                    "creat_at" : "1 tiếng"
+                },
+                {
+                    "id": 4,
+                    "link": "https://www.youtube.com/embed/1nvvGKngoHU?si=qWfH69_bNsA9_m7Q",
+                    "name_practice": 4 ,
+                    "creat_at" : "1 tiếng"
+                }
+            ],
+            "content": "Thiên Vũ đại lục nhất đại truyền kỳ Tần Trần, bị bạn tốt phản bội, ngã xuống Võ vực. 300 năm sau, hắn chuyển sinh thành con riêng ở một vương phủ, phải chịu đủ mọi sự sỉ nhục. Có ký ức kiếp trước, ngưng thần công, luyện thần đan, lội ngược dòng nước, từ đây viết nên trang sử về cuộc hành trình của một cao thủ gây khiếp sợ cho cả đại lục. Main: Tần Trần  Harem: U Thiên Tuyết, Cơ Như Nguyệt, Trần Tư Tư, Thượng Quan Uyển Nhi"
+        },
+        {
+            "id": 1,
+            "total_tap": "7/76",
+            "star_mv": "9.5", 
+            "img": "https://firebasestorage.googleapis.com/v0/b/phimlau-509fd.appspot.com/o/imgaes%2Ftiengnghich.jpg?alt=media&token=29b5ed98-3067-4016-a3b8-910f036780fc",
+            "name": "Tiên Nghịch",
+            "category": [
+                {
+                    "id": 1,
+                    "name": "Đang tiến hành",
+                    "topic" : "Trạng thái"
+                },
+                {
+                    "id": 2,
+                    "name": "9.4 || 927 đánh giá",
+                    "topic" : "Điểm"
+                },
+                {
+                    "id": 3,
+                    "name": "2023",
+                    "topic" : "Phát hành"
+                },
+                {
+                    "id": 4,
+                    "name": "76 Tập",
+                    "topic" : "Thời lượng"
+                   
+                }
+            ],
+            "practice": [
+                {
+                    "id": 1,
+                    "link": "https://www.youtube.com/embed/MYz3qgg5g9A?si=380MuK2W6RyAdlj3",
+                    "name_practice": 1,
+                    "creat_at" : "1 tháng"
+                },
+                {
+                    "id": 2,
+                    "link": "https://www.youtube.com/embed/f8J07reYgO4?si=lDlbGcVTGjtFrY75",
+                    "name_practice": 2,
+                    "creat_at" : "15 ngày"
+                },
+                {
+                    "id": 3,
+                    "link": "https://www.youtube.com/embed/fq0IBfg0xew?si=tfwbBkrfY2mR-WZe",
+                    "name_practice": 3 ,
+                    "creat_at" : "1 tiếng"
+                },
+                {
+                    "id": 4,
+                    "link": "https://www.youtube.com/embed/qFvq3yxaFd8?si=k3XJNorGgTYbj712",
+                    "name_practice": 4 ,
+                    "creat_at" : "1 tiếng"
+                },
+                {
+                    "id": 5,
+                    "link": "https://www.youtube.com/embed/1AojMDztlFg?si=n_EWdaiPZy4sar1K",
+                    "name_practice": 5 ,
+                    "creat_at" : "1 tiếng"
+                },   {
+                    "id": 6,
+                    "link": "https://www.youtube.com/embed/OtiUnDefikk?si=KDY4_e5SwkWvmGQh",
+                    "name_practice": 6 ,
+                    "creat_at" : "1 tiếng"
+                },   {
+                    "id": 7,
+                    "link": "https://www.youtube.com/embed/bgqx718WAnk?si=ghqQccY7qa1y42Vz",
+                    "name_practice": 7 ,
+                    "creat_at" : "1 tiếng"
+                }
+            ],
+            "content": "Main: Vương Lâm. Người chơi hệ chung tình mình em: Lý Mộ Uyển .kể về hành trình của Vương Lâm – một thiếu niên bình thường trở thành một trong những tu sĩ mạnh mẽ và tài năng nhất thế giới tiên hiệp."
+        },
+        {
+            "id": 2,
+            "total_tap": "4/12",
+            "star_mv": "8.6", 
+            "img": "https://firebasestorage.googleapis.com/v0/b/phimlau-509fd.appspot.com/o/imgaes%2Fdpkt.jpg?alt=media&token=330e3fe3-43aa-4e51-a716-8387fb8a90ea",
+            "name": "Đấu Phá Thương Khung Phần 5",
+            "category": [
+                {
+                    "id": 1,
+                    "name": "Đang tiến hành",
+                    "topic" : "Trạng thái"
+                },
+                {
+                    "id": 2,
+                    "name": "8.9 || 2277 đánh giá",
+                    "topic" : "Điểm"
+                },
+                {
+                    "id": 3,
+                    "name": "2022",
+                    "topic" : "Phát hành"
+                },
+                {
+                    "id": 4,
+                    "name": "104 Tập",
+                    "topic" : "Thời lượng"
+                   
+                }
+            ],
+            "practice": [
+                {
+                    "id": 1,
+                    "link": "https://www.youtube.com/embed/nh0bdePa16A?si=IyiQ__6RKeGUs-rE",
+                    "name_practice": 1,
+                    "creat_at" : "1 tháng"
+                },
+                {
+                    "id": 2,
+                    "link": "https://www.youtube.com/embed/y0mVO4JDjng?si=d-yYmvWEqYaD23X9",
+                    "name_practice": 2,
+                    "creat_at" : "15 ngày trước"
+                },
+                {
+                    "id": 3,
+                    "link": "https://www.youtube.com/embed/7b34F06Kqqo?si=vNLIBAIQmYsLeoVn",
+                    "name_practice": 3 ,
+                    "creat_at" : "1 tiếng"
+                }
+            ],
+            "content": "Câu truyện xảy ra tại Đấu Khí Đại Lục. Nhân vật chính của chúng ta là Tiêu Viêm. Hắn từ 1 thiên tài vang danh Gia Mã Đế Quốc trở thành một phế vật bị mọi người xa lánh, khinh bỉ. Những người trước đây có thể quỳ dưới chân nịnh bộ vị Thiếu Tộc Trưởng thì bây giờ sẵn sàng nói ra những lời chế giễu, vũ nhục Tiêu Viêm. Hắn chẳng thể làm gì ngay cả khi bị nàng dâu tương lai hủy hôn ước. Nhưng cũng vì vậy mà cái tinh thần, cái sức mạnh ý chí của Tiêu Viêm mới bộc phát. Nói ” tam thập niên hà đông, tam thập niên hà tây” về ý chí của Tiêu Viêm quả thật là không sai."
+        },
+        {
+            "id": 3,
+            "total_tap": "23/23",
+            "star_mv": "9.7", 
+            "img": "https://firebasestorage.googleapis.com/v0/b/phimlau-509fd.appspot.com/o/imgaes%2Fphamtrutien.jpg?alt=media&token=75dfc689-7bf8-41fe-a8dd-0537d906f8f8",
+            "name": "Phàm Nhân Tu Tiên",
+            "category": [
+                {
+                    "id": 1,
+                    "name": "Đang tiến hành",
+                    "topic" : "Trạng thái"
+                },
+                {
+                    "id": 2,
+                    "name": "8.5 || 1094 đánh giá",
+                    "topic" : "Điểm"
+                },
+                {
+                    "id": 3,
+                    "name": "2020",
+                    "topic" : "Phát hành"
+                },
+                {
+                    "id": 4,
+                    "name": "496 Tập",
+                    "topic" : "Thời lượng"
+                   
+                }
+            ],
+            "practice": [
+                {
+                    "id": 1,
+                    "link": "https://www.youtube.com/embed/4jHdcotzCrU?si=nnxju2-d7Hu0BELP",
+                    "name_practice": 1,
+                    "creat_at" : "12 phút"
+                },
+                {
+                    "id": 2,
+                    "link": "https://www.youtube.com/embed/tQJg13czomo?si=GHIm1oVqYhs_6aGb",
+                    "name_practice": 2,
+                    "creat_at" : "21 phút"
+                },
+                {
+                    "id": 3,
+                    "link": "https://www.youtube.com/embed/5Svs-lNMU8k?si=VAH08YtiOvOofF3G",
+                    "name_practice": 3 ,
+                    "creat_at" : "1 tiếng"
+                }
+            ],
+            "next_part" :[
+                {
+                    "id": 1,
+                    "API_nextpart": "https://www.youtube.com/embed/5Svs-lNMU8k?si=VAH08YtiOvOofF3G",
+                    "name_practice": 1 ,
+                    "creat_at" : "1 tiếng"
+                },
+                {
+                    "id": 2,
+                    "API_nextpart": "https://www.youtube.com/embed/5Svs-lNMU8k?si=VAH08YtiOvOofF3G",
+                    "name_practice": 2 ,
+                    "creat_at" : "1 tiếng"
+                },{
+                    "id": 3,
+                    "API_nextpart": "https://www.youtube.com/embed/5Svs-lNMU8k?si=VAH08YtiOvOofF3G",
+                    "name_practice": 3 ,
+                    "creat_at" : "1 tiếng"
+                }
+            ],
+            "content": "Thiên Vũ đại lục nhất đại truyền kỳ Tần Trần, bị bạn tốt phản bội, ngã xuống Võ vực. 300 năm sau, hắn chuyển sinh thành con riêng ở một vương phủ, phải chịu đủ mọi sự sỉ nhục. Có ký ức kiếp trước, ngưng thần công, luyện thần đan, lội ngược dòng nước, từ đây viết nên trang sử về cuộc hành trình của một cao thủ gây khiếp sợ cho cả đại lục. Main: Tần Trần  Harem: U Thiên Tuyết, Cơ Như Nguyệt, Trần Tư Tư, Thượng Quan Uyển Nhi"
+        },
+        {
+            "id": 4,
+            "total_tap": "3/52",
+            "star_mv": "9.0", 
+            "img": "https://firebasestorage.googleapis.com/v0/b/phimlau-509fd.appspot.com/o/imgaes%2Fthegioihoanmy.jpg?alt=media&token=06d000e8-d389-4998-8604-5be5bd0adc5d",
+            "name": "Thế Giới Hoàn Mỹ",
+            "category": [
+                {
+                    "id": 0,
+                    "name": "Tên khác",
+                    "topic" : "Perfect World (2021)"
+                },
+                {
+                    "id": 1,
+                    "name": "Đang tiến hành",
+                    "topic" : "Trạng thái"
+                },
+                {
+                    "id": 2,
+                    "name": "8.9 || 954 đánh giá",
+                    "topic" : "Điểm"
+                },
+                {
+                    "id": 3,
+                    "name": "2022",
+                    "topic" : "Phát hành"
+                },
+                {
+                    "id": 4,
+                    "name": "52 Tập",
+                    "topic" : "Thời lượng"
+                   
+                }
+            ],
+            "practice": [
+                {
+                    "id": 1,
+                    "link": "https://www.youtube.com/embed/mcSulP1JKqk?si=-p8_IHN0J6pncbWL",
+                    "name_practice": 158,
+                    "creat_at" : "12 phút"
+                },
+                {
+                    "id": 2,
+                    "link": "https://www.youtube.com/embed/H0eUi-hVbIc?si=fEbYtnZ-MdgtavaI",
+                    "name_practice": 159,
+                    "creat_at" : "21 phút"
+                },
+                {
+                    "id": 3,
+                    "link": "https://www.youtube.com/embed/F01-6Bzv9Yw?si=Ty5GB0YmR8udK7T0",
+                    "name_practice": 160,
+                    "creat_at" : "1 tiếng"
+                }
+            ],
+            "content": "Main: Trương Tiểu Phàm Harem: Lục Tuyết Kỳ (thành thân), Bích Dao Chỉ trong một đêm, Trương Tiểu Phàm trở thành cô nhi và được Thanh Vân Môn nhận làm đệ tử. Trải qua 5 năm tu luyện khắc khổ. Chàng đã có thể hiện xuất sắc trong đại võ hội Sư Môn Thất Mạch. Sau này được phái đến núi Không Tang đánh lùi ma giáo. Trong cuộc hành trình này, chàng cùng sư tỷ Lục Tuyết Kỳ gặp nhiều nguy nan, và giải cứu được nữ tử ma giáo Bích Dao. Đồng thời, nguy hiểm mới cũng đang đợi chàng ở phía trước."  } ,
+        {
+            "id": 5,
+            "total_tap": "16/52",
+            "star_mv": "9.0", 
+            "img": "https://firebasestorage.googleapis.com/v0/b/phimlau-509fd.appspot.com/o/imgaes%2Fdaichuate.jpg?alt=media&token=e233efc0-e3a8-4527-856b-f1d08d4a7e6a",
+            "name": "Đại Chúa Tể",
+            "category": [
+                {
+                    "id": 1,
+                    "name": "Đang tiến hành",
+                    "topic" : "Trạng thái"
+                },
+                {
+                    "id": 2,
+                    "name": "8.5 || 1094 đánh giá",
+                    "topic" : "Điểm"
+                },
+                {
+                    "id": 3,
+                    "name": "2023",
+                    "topic" : "Phát hành"
+                },
+                {
+                    "id": 4,
+                    "name": "52 Tập",
+                    "topic" : "Thời lượng"
+                   
+                }
+            ],
+            "practice": [
+                {
+                    "id": 1,
+                    "link": "https://www.youtube.com/embed/xPnjjyWCyNI?si=D6hMCi5wGZvWWeKq",
+                    "name_practice": 1,
+                    "creat_at" : "3 ngày trước"
+                },
+                {
+                    "id": 2,
+                    "link": "https://www.youtube.com/embed/skr3mKH0klc?si=4C_ikyKNA97dEiYQ",
+                    "name_practice": 2,
+                    "creat_at" : "2 ngày trước"
+                },
+                {
+                    "id": 3,
+                    "link": "https://www.youtube.com/embed/QR_2F2Q2qkc?si=w4r1Wxft83eI8hcq",
+                    "name_practice": 3 ,
+                    "creat_at" : "1 tiếng"
+                }
+            ],
+            "content": "Được chuyển thể từ tiểu thuyết Đại Chúa Tể của Thiên Tằm Thổ Đậu (tác giả của Đấu Phá Thương Khung và Vũ Động Càn Khôn)"
+        }
+    ]
+    
+
+}

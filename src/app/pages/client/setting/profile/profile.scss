@@ -1,0 +1,16 @@
+@import "../../../../variables_global.scss";
+
+.heading_movie {
+    background: $maunen;
+    font-size: 18px;
+    color: $gray;
+    font-weight: 700;
+    border-top: 2px solid $black;
+}
+.error_message{
+    color : red
+}
+.sidebar{
+    min-height: 600px;
+    background-color: $black;
+}

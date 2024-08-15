@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "708343984392",
+    "firebase_url": "https://wd18303ecmascript-default-rtdb.firebaseio.com",
+    "project_id": "wd18303ecmascript",
+    "storage_bucket": "wd18303ecmascript.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708343984392:android:e79189b17f9b0b97b87cbd",
+        "android_client_info": {
+          "package_name": "loiktpc05314_WD03.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPZcVQRzc-JPHP6Bf8wyB2l5oOFBojmHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708343984392:android:eff89a9e8b894d83b87cbd",
+        "android_client_info": {
+          "package_name": "quanao.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPZcVQRzc-JPHP6Bf8wyB2l5oOFBojmHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

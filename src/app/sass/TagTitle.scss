@@ -1,0 +1,16 @@
+@import '../variables_global.scss';
+.wapperTagTitle {
+    
+    background-color: #242525;
+    .boxtagtitle {
+        border-radius: 0px 200px 200px 10px;
+        -moz-border-radius: 0px 200px 200px 10px;
+        -webkit-border-radius: 0px 200px 200px 10px;
+        width: 27%;
+       
+        border: 0px solid #000000;
+        h3{
+            color: $gray;
+        }
+    }
+}

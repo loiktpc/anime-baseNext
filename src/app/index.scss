@@ -1,0 +1,39 @@
+@import './variables_global.scss';
+
+.header {
+    display: flex;  
+    justify-content: space-around;
+    height: 61px;
+    background: $primary;
+    align-items: center;
+    border-bottom: 1px solid #424242;
+    
+    .headerLogo{
+        width: 200px;
+        height: 32px;
+    }
+    .menuHeader {
+        width: 100px;
+        display: flex;
+        justify-content: space-around;
+    }
+    .sreach {
+        background-color: $black;
+        color:$gray ;
+        font-family: Arial;
+        font-size: 13.3333px;
+        grid-area: auto;
+        padding: 10px;
+        width: 522px;
+        height: 32px;
+      
+    }
+    .btnsreach{
+        position: absolute;
+        height: 32px;
+        right: 267px;
+        color: $gray;
+        background-color: $black;
+    }
+   
+}

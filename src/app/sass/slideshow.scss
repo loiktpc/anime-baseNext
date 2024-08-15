@@ -1,0 +1,63 @@
+@import '../variables_global.scss';
+
+.boxslide{
+    width: 220px;
+    height: 270px;
+    
+}
+.slider-container{
+    padding: 10px;
+    margin-bottom: 10px;
+    background: $maunen;
+    border-radius: 4px;
+    
+}
+ .slick-track{
+    max-height: 100%;
+    height: 138px;
+ }
+ /* the slides */
+ .slick-slide {
+    margin: 0 4px;
+}
+
+/* the parent */
+.slick-list {
+    
+    margin: 0 -4px;
+}
+.practice{
+    color: $gray;
+    font-size: 12px;
+    font-weight: 700;
+    border-radius: 4px;
+    background-color: $mautap;
+}
+.button__bar{
+    margin-top: 10px;
+    display: flex !important;
+    justify-content: center;
+    li{
+        width: 24px;
+        height: 20px;
+    }
+    li a div{
+        width: 12px;
+        height: 12px;
+        background-color: $gray;
+        border-radius: 50%;
+        cursor: pointer;
+        content: none !important;
+    }
+}
+
+ul li.slick-active a div {
+    opacity: .75;
+    color: #000 ;
+    background-color: #869791    !important;
+}
+.imgslide{
+    max-height: 100%;
+    // max-height: ;
+    height: 270px;
+}

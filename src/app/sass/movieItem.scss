@@ -1,0 +1,39 @@
+@import '../variables_global.scss';
+
+.moviesItem {
+    cursor: pointer;
+    width: 100%;
+    margin-bottom: 5px;
+    background: $black;
+    padding: 5px;
+    box-sizing: border-box;
+    position: relative;
+    border: 2px solid $maunen;
+    &:hover{
+        background: $black;
+        opacity: 0.7;
+    }
+    .practice{
+        position: absolute;
+        left: 10px;
+        top: 10px;
+        padding: 5px 10px;
+        background-color: #383838;
+        font-weight: 700;
+        font-size: 14px;
+        border-radius: 4px;
+        border: 3px double #5a5a5a;
+        letter-spacing: 1px;
+    }
+   .Evaluate{
+    position: absolute;
+    right: 10px;
+    bottom: 22px;
+    padding: 5px 10px;
+    background-color: #903a3a;
+    font-weight: 700;
+    font-size: 12px;
+    color: $gray ;
+    border-radius: 4px;
+   }
+}

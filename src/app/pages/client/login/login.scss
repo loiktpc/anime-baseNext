@@ -1,0 +1,12 @@
+@import '../../../variables_global.scss';
+.TabsList{
+    background-color: $damden;
+}
+.Card{
+    background-color: $damden;
+    color: $gray;
+    border: none;
+}
+.error_message{
+    color: red;
+}
